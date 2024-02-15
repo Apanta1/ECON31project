@@ -1,0 +1,144 @@
+Timestamp,Class Year,Gender,Are u an international student?,"On a scale from 1-5, how would you describe your personality?",Current Major ( Primary Major) ,Division,How many times have you changed your major after arriving at Swarthmore college?,"On a scale from 1-5, how much do your family or their expectations affect your major choice?","On a scale from 1-5, to what extent has the consideration of your career or job search influenced your major choice?"
+11/13/2023 19:53:00,2025,Female,No,2,Soci/Anth,SS,1,1,2
+11/13/2023 19:56:20,2027,Female,No,1,Economics ,SS,1,4,5
+11/13/2023 19:56:51,2025,Male,No,2,Math,NSE,0,4,4
+11/13/2023 20:01:08,2026,Female,No,3,Undecided ,UD,0,3,3
+11/13/2023 23:58:22,2024,Female,Yes,3,Medical Anthropology,SS,0,1,5
+11/14/2023 19:18:29,2026,Female,Yes,3,English and poli sci biiitch,HU,3,3,3
+11/14/2023 19:42:27,2025,Male,No,3,Biochemistry,NSE,0,1,5
+11/14/2023 20:01:56,2026,Male,No,4,Computer Science,NSE,0,2,2
+11/14/2023 20:05:27,2025,Male,No,1,Chemistry,NSE,2,2,5
+11/14/2023 20:09:48,2026,Female,No,2,Chemistry,NSE,0,4,4
+11/14/2023 20:10:55,2025,Male,No,1,Stat/CS,NSE,1,2,1
+11/14/2023 20:12:17,2026,Female,No,3,Psychology,SS,0,2,2
+11/14/2023 20:21:33,2026,Male,Yes,3,History ,HU,2,2,3
+11/14/2023 20:27:15,2026,Female,Yes,2,Environmental Studies and Sociology & Anthropology ,NSE,0,1,1
+11/14/2023 20:32:30,2026,Male,Yes,2,Stats ,NSE,3,3,5
+11/14/2023 20:55:52,2026,Male,No,2,Engineering,NSE,0,2,4
+11/14/2023 20:55:58,2026,Male,No,2,Economics,SS,2,1,4
+11/14/2023 20:56:09,2024,Male,No,2,Political Science,SS,1,5,2
+11/14/2023 20:56:59,2026,Male,No,1,Music,HU,2,3,3
+11/14/2023 20:57:52,2024,Male,No,3,English and Psychology,HU,2,2,4
+11/14/2023 20:59:40,2026,Female,No,2,Economics,SS,0,2,3
+11/14/2023 20:59:59,2025,Male,No,3,Economics & History,SS,0,4,5
+11/14/2023 21:00:53,2026,Male,Yes,4,Economics,SS,0,4,5
+11/14/2023 21:03:45,2025,Male,No,3,Comp Sci,NSE,0,2,4
+11/14/2023 21:05:08,2025,Male,No,4,Biochemistry ,NSE,1,4,5
+11/14/2023 21:05:30,2024,Female,No,4,Engineering,NSE,0,5,5
+11/14/2023 21:15:32,2027,Non-binary,Yes,2,Political Science,SS,0,2,3
+11/14/2023 21:16:40,2026,Female ,No,4,Biochemistry ,NSE,0,4,5
+11/14/2023 21:16:48,2026,Female,Yes,3,Biochemistry ,NSE,0,3,5
+11/14/2023 21:17:35,2027,Female,Yes,2,Anthropology/Sociology,SS,0,2,2
+11/14/2023 21:21:57,2027,Male,Yes,2,History ,SS,0,3,3
+11/14/2023 21:32:16,2026,Female,No,2,Statistics/Math,NSE,2,3,5
+11/14/2023 21:32:55,2026,Nonbinary ,Yes,1,History,SS,1,1,1
+11/14/2023 21:53:31,2027,Female,No,4,Undecided,UD,0,4,4
+11/14/2023 21:54:25,2027,Female,No,3,Econ (? maybe?),SS,5+,1,5
+11/14/2023 21:58:25,2026,Female,Yes,3,Economics ,SS,4,5,5
+11/14/2023 21:59:50,2027,Female ,Yes,2,Pre-med,NSE,0,3,5
+11/14/2023 22:07:48,2026,Nonbinary ,No,1,Computer Science,NSE,0,2,3
+11/14/2023 22:07:55,2026,Female,Yes,2,Computer Science,NSE,0,4,5
+11/14/2023 22:11:37,2026,Female,No,4,Dance and Environmental Studies double major,HU,0,4,4
+11/14/2023 22:12:38,2027,Female,Yes,3,computer science,NSE,1,2,5
+11/14/2023 22:22:55,2025,Female,No,3,medical Anthropology ,SS,1,5,5
+11/14/2023 22:38:49,2027,Male,Yes,1,Engineering ,NSE,1,5,5
+11/14/2023 23:08:58,2026,Female,No,2,English literature ,HU,0,4,4
+11/14/2023 23:24:30,2026,Male,No,4,engine,NSE,0,1,4
+11/14/2023 23:28:00,2025,Male,No,3,Computational Biology,NSE,4,3,4
+11/14/2023 23:31:24,2027,Female,No,3,prospective Statistics and Computer Science ,NSE,0,3,4
+11/14/2023 23:32:10,2027,Male,No,2,Astrophysics,NSE,0,3,5
+11/14/2023 23:32:17,2025,Female,No,3,Economic,SS,2,2,5
+11/14/2023 23:32:58,2026,Female,No,4,Education & Psychology Special Major,SS,2,4,4
+11/14/2023 23:33:38,2027,Male,No,3,undecided,UD,0,3,4
+11/14/2023 23:33:43,2027,Female ,No,3,Biology,NSE,0,4,4
+11/14/2023 23:34:34,2027,Male,No,4,Psychology / Economics,SS,1,3,5
+11/14/2023 23:35:29,2027,Male,No,5,Poli Sci,SS,0,2,3
+11/14/2023 23:36:44,2025,Non-binary,No,4,Engineering,NSE,0,2,3
+11/14/2023 23:37:56,2025,Male,Yes,2,Computer Science,NSE,0,2,5
+11/14/2023 23:38:23,2026,Male,Yes,1,Computer Science,NSE ,1,5,5
+11/14/2023 23:39:14,2026,Female,Yes,4,psych econ,SS,0,2,5
+11/14/2023 23:44:04,2026,Female,Yes,3,CS,NSE,0,3,4
+11/14/2023 23:48:36,2027,Male,No,2,Engineering ,NSE,0,4,4
+11/14/2023 23:57:56,2024,Female,Yes,3,Psychology,SS,1,2,1
+11/14/2023 23:58:20,2026,Female,Yes,3,Economics and peace and conflict studies,SS,2,2,3
+11/15/2023 0:00:14,2025,Male,No,2,Chemistry/Math,NSE,1,1,2
+11/15/2023 0:01:30,2027,Male,No,4,Economics,SS,0,3,4
+11/15/2023 0:16:49,2026,Female,No,2,computer science,NSE,2,4,4
+11/15/2023 0:44:05,2027,Male,No,2,Engineering,NSE,0,4,4
+11/15/2023 2:24:49,2024,Female,Yes,4,Honours Economics,SS,1,3,4
+11/15/2023 4:38:16,2025,Male,Yes,4,Mathematics and Computer Science,NSE,2,3,2
+11/15/2023 8:22:03,2027,Female ,No,3,Global Studies,SS,0,2,5
+11/15/2023 8:27:20,2027,Male,No,1,Math,NSE,0,3,4
+11/15/2023 9:40:52,2027,Male,No,4,Econ,SS,0,2,1
+11/15/2023 10:01:20,2025,Male,No,2,Neuroscience ,NSE,2,4,5
+11/15/2023 10:16:27,2027,Female,No,3,PPE,SS,1,4,5
+11/15/2023 10:30:05,2024,Female,No,3,Neuroscience,NSE,0,3,5
+11/15/2023 10:48:43,2025,Female,No,2,Biochem,NSE,2,5,5
+11/15/2023 12:56:49,2026,Female,Yes,3,Economics,SS,3,5,5
+11/15/2023 13:23:26,2024,Male,No,2,Neurosciencd,NSE,2,3,4
+11/15/2023 14:16:49,2027,Female,No,2,"Undecided, mainly between cognitive science & PPE",SS,1,3,4
+11/15/2023 18:23:59,2025,Male,No,2,Biology ,NSE,0,1,5
+11/16/2023 12:50:41,2024,Male,Yes,2,Chemistry ,NSE,3,4,4
+11/16/2023 16:04:27,2024,Female ,Yes,3,Sociology and Anthropology ,SS,0,2,2
+11/16/2023 16:21:29,2026,Male,Yes,3,Computer Science,NSE,1,4,4
+11/16/2023 16:31:52,2024,Female,Yes,2,psychology,SS,1,1,1
+11/16/2023 16:33:02,2027,Female,Yes,1,Chemistry and mathematics,NSE,0,4,4
+11/16/2023 16:39:35,2024,Male ,No,2,Economics ,SS,0,3,5
+11/16/2023 16:47:16,2026,Male,Yes,1,Chemistry,NSE,0,1,3
+11/16/2023 16:47:49,2027,Make ,Yes,3,Economics ,SS,0,2,4
+11/16/2023 17:12:45,2024,Male,Yes,2,Math,NSE,1,2,5
+11/18/2023 18:54:07,2024,Female,No,3,History and Global Studies,SS,1,4,4
+11/20/2023 19:17:20,2024,Female ,No,2,Biochem and environmental studies ,NSE,1,2,3
+11/20/2023 19:19:00,2024,Male,Yes,3,Psychology,SS,0,4,4
+11/20/2023 19:34:38,2024,Non-binary,No,4,Chemistry,NSE,2,2,5
+11/20/2023 19:40:00,2025,Male,No,2,Math,NSE,0,3,4
+11/20/2023 19:56:34,2024,Male,No,1,Chemistry,NSE,1,4,3
+11/23/2023 13:28:42,2024,Male,No,4,Economics ,SS,1,5,4
+11/23/2023 14:23:50,2024,Male,Yes,2,Polisci,SS,0,1,4
+11/24/2023 12:14:48,2025,Female,No,4,Economics,NSE,0,5,5
+11/24/2023 12:55:35,2026,Female,No,2,Economics,NSE,0,4,4
+11/24/2023 17:03:15,2025,Male,No,2,Political Science,SS,1,2,5
+11/24/2023 21:25:46,2024,Female,Yes,2,Mathematics,NSE,1,2,4
+11/25/2023 15:02:27,2026,Male,No,4,Economics ,SS,1,2,5
+11/25/2023 23:58:52,2025,Male,No,1,"Economics and English (you can say economics as primary, just not sure what that means; I added English later)",SS,3,4,3
+11/26/2023 9:22:03,2026,Male,No,2,Economics,SS,0,2,5
+11/26/2023 12:05:47,2026,Male,No,3,Stats and Econ,NSE,0,2,5
+11/26/2023 15:14:55,2025,Female,No,3,economics,SS,0,3,2
+11/26/2023 16:07:10,2026,Female,Yes,4,psych econ,SS,0,4,4
+11/26/2023 17:26:49,2025,Male,No,2,Economics,SS,1,1,3
+11/26/2023 20:14:56,2024,Male,No,2,Economics,SS,1,3,5
+11/26/2023 21:19:32,2026,Male,No,3,Biology,NSE,1,2,5
+11/26/2023 21:56:29,2026,Female,No,4,Economics,SS,1,2,4
+11/26/2023 22:03:10,2024,Male,No,2,Economics,SS,1,2,5
+11/26/2023 23:37:24,2026,Female,No,3,Biology,NSE,0,4,5
+11/27/2023 10:57:31,2025,Male,No,2,Economics,SS,0,3,5
+11/27/2023 11:33:15,2026,Male,No,3,Econ,SS,2,4,4
+11/27/2023 12:51:34,2026,Male,No,2,Economics,SS,1,4,5
+11/27/2023 12:57:05,2025,Male,No,3,Neuroscience,NSE,2,1,5
+11/27/2023 14:24:04,2025,Male,Yes,3,CS,NSE,0,1,4
+11/27/2023 16:00:06,2025,Male,No,3,Econ,SS,1,5,5
+11/27/2023 16:42:44,2026,Female,No,2,neuroscience,NSE,0,2,4
+11/27/2023 20:09:07,2025,Male,No,5,Economics,SS,0,4,4
+11/27/2023 21:06:30,2025,Male,No,3,Engineering,NSE,1,2,5
+11/27/2023 21:26:54,2026,Female,Yes,3,Math,NSE,2,2,4
+11/27/2023 22:14:03,2026,Female,No,4,Computer Science,NSE,2,3,5
+11/28/2023 3:14:01,2026,Male,No,5,Econ and Poli Sci,SS,0,3,4
+11/28/2023 9:18:38,2026,Female,No,2,Economics,SS,1,3,4
+11/28/2023 10:25:57,2025,Female,No,3,Economics,SS,2,5,5
+11/28/2023 11:40:36,2024,Male,No,2,Engineering,NSE,0,3,4
+11/28/2023 13:40:59,2026,Non-binary,No,2,Engineering & Economics,NSE,0,3,4
+11/28/2023 14:43:47,2024,Female,No,4,Economics,SS,0,1,3
+11/28/2023 21:41:00,2026,Female,No,2,CS,NSE,0,4,4
+11/28/2023 22:13:41,2026,Male,Yes,4,Computer Science,NSE,1,3,5
+11/29/2023 9:51:12,2024,Female,No,2,"Biology, economics ",NSE,1,3,4
+11/29/2023 10:48:36,2025,Male,No,5,econ,SS,0,4,4
+11/29/2023 13:21:12,2026,Male,Yes,3,CS,NSE,0,3,4
+11/29/2023 21:58:21,2025,Male,No,3,Econ,SS,4,3,4
+11/30/2023 14:44:46,2025,Male,No,3,math,NSE,2,3,3
+11/30/2023 15:11:22,2024,Male,No,4,Econ,SS,1,1,5
+11/30/2023 15:14:02,2025,Female,No,3,Economics and Spanish,SS,3,4,5
+11/30/2023 20:06:11,2026,Male,No,3,Film n Econ,HU,0,5,5
+12/1/2023 12:33:14,2024,Male,Yes,3,Computer Science,CS,0,4,5
+12/1/2023 12:38:58,2025,Female,Yes,5,Economics,SS,1,1,5
+12/1/2023 16:09:44,2025,Male,Yes,5,Computer Science and Economics ,NSE,3,2,4
+12/1/2023 18:21:23,2026,Female,Yes,4,"Econ, Poli Sci",SS,3,3,4
